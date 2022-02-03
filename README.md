@@ -1,16 +1,11 @@
-# Comparing local and central differential privacy using membership inference attacks
+# Comparing local and central differential privacy in federated learning using membership inference attacks
 
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP/security-research-fed-dp-mia)](https://api.reuse.software/info/github.com/SAP/security-research-fed-dp-mia)
 
 ## Description
 
-SAP Security Research sample code to reproduce the research done in our paper 
+SAP Security Research sample code to reproduce research that builds on our paper 
 "Comparing local and central differential privacy using membership inference attacks"[1].
-## Install
-
-```
-make install
-```
 
 ## Requirements
 
