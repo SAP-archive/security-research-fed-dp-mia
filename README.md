@@ -1,3 +1,6 @@
+
+[![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-yellow.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
+
 # Comparing local and central differential privacy in federated learning using membership inference attacks
 
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/security-research-fed-dp-mia)](https://api.reuse.software/info/github.com/SAP-samples/security-research-fed-dp-mia)
